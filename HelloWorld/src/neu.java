@@ -1,1 +1,3 @@
-Neu
+public class Neu {
+	
+}
