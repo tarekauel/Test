@@ -28,7 +28,7 @@ public class ProxyServer {
 			try {
 				p.openConnection();
 				ArrayList<String> header = p.readHeader();
-				String host = header.get(0).split(" ")[1].substring(7, header.get(0).split(" ")[1].length()-1);
+				String host = p.readHost(header);
 				p.openConnectionOut(host, header);
 				p.getAndSendAnswer();
 				p.closeConnection();
@@ -42,6 +42,15 @@ public class ProxyServer {
 			
 		}
 
+	}
+	
+	public String readHost(ArrayList<String> header) {
+		for(String line:header) {
+			if(line.matches("Host:.*")) {
+				return line.substring(6);
+			}
+		}
+		return "";
 	}
 
 	public ProxyServer(int port) throws IOException {
@@ -59,6 +68,7 @@ public class ProxyServer {
 	}
 
 	public void closeConnection() throws IOException {
+		writerOut.close();readerOut.close();socketOut.close();
 		writer.close();
 		reader.close();
 		socket.close();
@@ -100,7 +110,7 @@ public class ProxyServer {
 	public void getAndSendAnswer() throws IOException {
 		InputStream readerOut =	socketOut.getInputStream();
 		ByteArrayOutputStream baos = new ByteArrayOutputStream();
-		byte buffer[] = new byte[1024];
+		byte buffer[] = new byte[1024*1024];
 		for(int s; (s=readerOut.read(buffer)) != -1; )
 		{
 		  baos.write(buffer, 0, s);
@@ -111,4 +121,5 @@ public class ProxyServer {
 		writer.flush();
 
 	}
+
 }
