@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.text.*?>
+
+<Pane prefHeight="1664.79541015625" prefWidth="2631.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="application.Controller">
+  <children>
+    <TabPane layoutX="0.0" layoutY="0.0" prefHeight="816.0" prefWidth="1263.0" tabClosingPolicy="UNAVAILABLE">
+      <tabs>
+        <Tab text="Einkauf">
+          <content>
+            <AnchorPane id="Content" minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+              <children>
+                <TextField fx:id="input" layoutX="37.0" layoutY="28.0" prefWidth="200.0" />
+                <Slider fx:id="slider" blockIncrement="1.0" layoutX="37.0" layoutY="74.0" max="100.0" showTickMarks="true" snapToTicks="true" />
+                <Button layoutX="117.0" layoutY="107.0" mnemonicParsing="false" onAction="#buttonOnClick" text="Button" />
+              </children>
+            </AnchorPane>
+          </content>
+        </Tab>
+        <Tab text="Produktion">
+          <content>
+            <AnchorPane id="Content" minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
+          </content>
+        </Tab>
+        <Tab text="ImageView">
+          <content>
+            <AnchorPane id="Content" minHeight="0.0" minWidth="0.0" prefHeight="377.0" prefWidth="462.0">
+              <children>
+                <ImageView fitHeight="625.6243896484375" fitWidth="1260.2102732285655" layoutX="1.0" layoutY="1.0" pickOnBounds="true" preserveRatio="true">
+                  <image>
+                    <Image url="@world_map.gif" />
+                  </image>
+                </ImageView>
+                <Circle fill="TRANSPARENT" layoutX="271.0" layoutY="182.0" onMouseClicked="#onUSAClicked" radius="12.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" styleClass="citycircle" />
+                <Label layoutX="21.0" layoutY="639.0" text="Standortinformationen" />
+                <Label layoutX="21.0" layoutY="655.0" text="Name:" />
+                <Label fx:id="labelCityName" layoutX="63.0" layoutY="505.0" prefWidth="79.0" text="" />
+                <Rectangle arcHeight="5.0" arcWidth="5.0" fill="TRANSPARENT" height="31.0" layoutX="478.0" layoutY="94.0" onMouseClicked="#onGermanyClicked" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" styleClass="citycircle" width="64.0" />
+              </children>
+            </AnchorPane>
+          </content>
+        </Tab>
+      </tabs>
+    </TabPane>
+  </children>
+</Pane>

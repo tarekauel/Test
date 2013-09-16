@@ -1,0 +1,1290 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-09-14T00:35:03</date>
+  <millis>1379111703362</millis>
+  <sequence>0</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Logger gestartet</message>
+</record>
+<record>
+  <date>2013-09-14T00:35:03</date>
+  <millis>1379111703389</millis>
+  <sequence>1</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:10</date>
+  <millis>1379112130211</millis>
+  <sequence>3</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:10</date>
+  <millis>1379112130889</millis>
+  <sequence>21</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:10</date>
+  <millis>1379112130893</millis>
+  <sequence>26</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:10</date>
+  <millis>1379112130904</millis>
+  <sequence>31</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:10</date>
+  <millis>1379112130907</millis>
+  <sequence>36</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:10</date>
+  <millis>1379112130910</millis>
+  <sequence>41</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131232</millis>
+  <sequence>111</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131235</millis>
+  <sequence>116</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131238</millis>
+  <sequence>121</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131242</millis>
+  <sequence>125</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131246</millis>
+  <sequence>131</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131249</millis>
+  <sequence>135</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131254</millis>
+  <sequence>141</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131257</millis>
+  <sequence>146</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131260</millis>
+  <sequence>150</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131263</millis>
+  <sequence>155</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131279</millis>
+  <sequence>161</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131282</millis>
+  <sequence>166</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131284</millis>
+  <sequence>170</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131286</millis>
+  <sequence>176</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131289</millis>
+  <sequence>180</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131291</millis>
+  <sequence>185</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131295</millis>
+  <sequence>190</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131298</millis>
+  <sequence>195</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131300</millis>
+  <sequence>200</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131308</millis>
+  <sequence>206</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131311</millis>
+  <sequence>211</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131313</millis>
+  <sequence>215</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131317</millis>
+  <sequence>221</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131319</millis>
+  <sequence>225</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131323</millis>
+  <sequence>230</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131325</millis>
+  <sequence>234</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131328</millis>
+  <sequence>240</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131332</millis>
+  <sequence>246</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131334</millis>
+  <sequence>250</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131338</millis>
+  <sequence>258</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131352</millis>
+  <sequence>273</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131367</millis>
+  <sequence>295</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131490</millis>
+  <sequence>479</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131532</millis>
+  <sequence>517</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131541</millis>
+  <sequence>527</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131656</millis>
+  <sequence>593</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131771</millis>
+  <sequence>667</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131781</millis>
+  <sequence>685</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131783</millis>
+  <sequence>687</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131791</millis>
+  <sequence>714</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131793</millis>
+  <sequence>722</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131797</millis>
+  <sequence>734</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131798</millis>
+  <sequence>739</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131801</millis>
+  <sequence>746</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131803</millis>
+  <sequence>756</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131804</millis>
+  <sequence>762</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131805</millis>
+  <sequence>765</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131807</millis>
+  <sequence>769</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131808</millis>
+  <sequence>776</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131809</millis>
+  <sequence>780</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131811</millis>
+  <sequence>784</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131812</millis>
+  <sequence>789</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131814</millis>
+  <sequence>795</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131815</millis>
+  <sequence>801</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131816</millis>
+  <sequence>807</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131818</millis>
+  <sequence>811</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131819</millis>
+  <sequence>816</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131821</millis>
+  <sequence>823</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131822</millis>
+  <sequence>827</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131823</millis>
+  <sequence>832</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131825</millis>
+  <sequence>836</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131827</millis>
+  <sequence>841</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131829</millis>
+  <sequence>846</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131882</millis>
+  <sequence>872</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131947</millis>
+  <sequence>1035</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131952</millis>
+  <sequence>1050</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:11</date>
+  <millis>1379112131953</millis>
+  <sequence>1056</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:12</date>
+  <millis>1379112132007</millis>
+  <sequence>1106</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:12</date>
+  <millis>1379112132016</millis>
+  <sequence>1117</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:12</date>
+  <millis>1379112132023</millis>
+  <sequence>1128</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:12</date>
+  <millis>1379112132035</millis>
+  <sequence>1141</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:12</date>
+  <millis>1379112132058</millis>
+  <sequence>1158</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:12</date>
+  <millis>1379112132065</millis>
+  <sequence>1178</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:12</date>
+  <millis>1379112132079</millis>
+  <sequence>1195</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:12</date>
+  <millis>1379112132081</millis>
+  <sequence>1200</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:12</date>
+  <millis>1379112132207</millis>
+  <sequence>1336</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:12</date>
+  <millis>1379112132435</millis>
+  <sequence>1438</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:12</date>
+  <millis>1379112132539</millis>
+  <sequence>1459</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:12</date>
+  <millis>1379112132606</millis>
+  <sequence>1481</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:12</date>
+  <millis>1379112132662</millis>
+  <sequence>1509</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:12</date>
+  <millis>1379112132665</millis>
+  <sequence>1515</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:12</date>
+  <millis>1379112132788</millis>
+  <sequence>1552</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:12</date>
+  <millis>1379112132957</millis>
+  <sequence>1574</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:13</date>
+  <millis>1379112133135</millis>
+  <sequence>1592</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:13</date>
+  <millis>1379112133351</millis>
+  <sequence>1616</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:13</date>
+  <millis>1379112133526</millis>
+  <sequence>1649</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:13</date>
+  <millis>1379112133696</millis>
+  <sequence>1667</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:13</date>
+  <millis>1379112133874</millis>
+  <sequence>1685</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:14</date>
+  <millis>1379112134056</millis>
+  <sequence>1703</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:14</date>
+  <millis>1379112134238</millis>
+  <sequence>1721</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:14</date>
+  <millis>1379112134408</millis>
+  <sequence>1739</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:14</date>
+  <millis>1379112134579</millis>
+  <sequence>1757</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:14</date>
+  <millis>1379112134753</millis>
+  <sequence>1775</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:14</date>
+  <millis>1379112134931</millis>
+  <sequence>1793</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:15</date>
+  <millis>1379112135113</millis>
+  <sequence>1811</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:15</date>
+  <millis>1379112135287</millis>
+  <sequence>1829</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:15</date>
+  <millis>1379112135459</millis>
+  <sequence>1847</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:15</date>
+  <millis>1379112135640</millis>
+  <sequence>1865</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:42:15</date>
+  <millis>1379112135840</millis>
+  <sequence>1883</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:44:17</date>
+  <millis>1379112257144</millis>
+  <sequence>1901</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:44:17</date>
+  <millis>1379112257884</millis>
+  <sequence>1921</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:44:18</date>
+  <millis>1379112258698</millis>
+  <sequence>1940</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:44:19</date>
+  <millis>1379112259669</millis>
+  <sequence>1959</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:44:20</date>
+  <millis>1379112260654</millis>
+  <sequence>1978</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:44:21</date>
+  <millis>1379112261714</millis>
+  <sequence>1997</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:44:22</date>
+  <millis>1379112262408</millis>
+  <sequence>2016</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:44:23</date>
+  <millis>1379112263097</millis>
+  <sequence>2035</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:44:24</date>
+  <millis>1379112264052</millis>
+  <sequence>2054</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
+<record>
+  <date>2013-09-14T00:44:25</date>
+  <millis>1379112265109</millis>
+  <sequence>2073</sequence>
+  <logger>Proxy</logger>
+  <level>INFO</level>
+  <class>Proxy</class>
+  <method>connectToBrowser</method>
+  <thread>1</thread>
+  <message>Start()</message>
+</record>
